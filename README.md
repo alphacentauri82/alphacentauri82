@@ -13,7 +13,7 @@ At the moment my core focus is to engage in public speaking, mentoring and deliv
 - infrastructure/Cloud
 - IoT / Hardware
 
-I have type 1 diabetes and I'm working on various open source projects such as a fork of [nightscout](http://nightscout.info), migrating to Vue.js and adding some extra features. I am also producing tutorials in various subjects and with your help i can have some more time to continue these awesome projects. Currently developing better iterations of a notifier system for low blood glucose alerts using Vonage API's. Check out my [Github Sponsors profile](https://github.com/sponsors/alphacentauri82/)
+I have type 1 diabetes and I'm working on various open source projects such as [Scout!](https://github.com/alphacentauri82/scout)  I am also producing tutorials in various subjects and with your help i can have some more time to continue these awesome projects. Currently developing better iterations of a notifier system for low blood glucose alerts using Vonage API's. Check out my [Github Sponsors profile](https://github.com/sponsors/alphacentauri82/)
 
 If you want to read more about me, check my [website](https://superdi.dev) and my dev [profile](https://dev.to/superdiana), i also have a [work github account](https://github.com/superdiana)-- I can't remember why but i do.
 
